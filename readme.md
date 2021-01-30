@@ -1,6 +1,6 @@
 # astrolabe
 
-> 这是一个基于`treejs`的 3D 星盘小工具
+> 这是一个基于`threejs`的 3D 星盘小工具
 >
 > 参考文章
 >
